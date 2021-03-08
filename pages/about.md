@@ -19,4 +19,4 @@ This is the first section of the About page.
 
 ## This is the Second Section
 
-{% include feature/card.html header="This is a Psychiana Collection Card" text="This is a text in a Psychiana Collection Card" width="50" centered=true 
+{% include feature/card.html header="This is a Psychiana Collection Card" text="This is a text in a Psychiana Collection Card" width="50" centered=true %}
