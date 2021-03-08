@@ -17,6 +17,6 @@ This is the first section of the About page.
 
 {% include feature/item-figure.html objectid="psychiana018" width="50" %}
 
-## This is the second section
+## This is the Second Section
 
 {% include feature/card.html header="This is a Psychiana Collection Card" text="This is a text in a Psychiana Collection Card" width="50" centered=true 
